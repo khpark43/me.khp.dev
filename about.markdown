@@ -8,12 +8,8 @@ Hi, I'm Kyunghyun Park. Feel free to contact me.
 - South Korea
 - me@khp.dev
 
-# Education
-- (2020~) Kaist CS
-- (2017~2019) GSHS 35th
+# Timeline
+- (2022–2025) [Ngine Studios](https://career.nexon.com/user/recruit/member/postList?joinCorp=GN), Alternative Military Service (Industrial Technical Personnel)
+- (2020–Present) KAIST, B.S. in Computer Science
+- (2017–2019) Gyeonggi Science High School
 
-# Skills
-So many
-
-# Now
-Currently working at [Ngine Studios](https://career.nexon.com/user/recruit/member/postList?joinCorp=GN) due to mandatory military service (Industrial Technical Personnel)
